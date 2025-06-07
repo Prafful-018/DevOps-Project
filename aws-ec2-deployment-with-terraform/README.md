@@ -48,9 +48,12 @@ This project demonstrates how to provision a secure, highly configurable Amazon 
 6. **Tear down resources (Optional)**
    ```bash
    terraform destroy
+
 ## Architecture diagram
 ![image](https://github.com/user-attachments/assets/7bf057ec-2818-4880-b862-e56e56e8f0bd)
 
+## Output Section
+![image](https://github.com/user-attachments/assets/61e0a474-b212-45ce-b7f4-89cd83f870d6)
 
 
 🧠 **Learning Objectives**
