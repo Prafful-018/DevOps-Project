@@ -53,7 +53,6 @@ This project demonstrates how to provision a secure, highly configurable Amazon 
 
 
 
-
 🧠 **Learning Objectives**
 
 This project is perfect to showcase:
