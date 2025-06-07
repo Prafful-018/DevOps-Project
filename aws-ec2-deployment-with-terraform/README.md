@@ -25,7 +25,7 @@ This project demonstrates provisioning an Amazon EC2 instance inside a custom VP
 
 2.**Initialize Terraform**
    ```bash
-terraform init
+   terraform init
 
 3.**Review the plan**
   ```bash
