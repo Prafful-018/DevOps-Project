@@ -23,16 +23,16 @@ This project demonstrates provisioning an Amazon EC2 instance inside a custom VP
    git clone https://github.com/Prafful-018/DevOps-Project.git
    cd DevOps-Project/aws-ec2-deployment-with-terraform
 
-2.Initialize Terraform
-```bash
+2.**Initialize Terraform**
+   ```bash
 terraform init
 
-3.Review the plan
-```bash
+3.**Review the plan**
+  ```bash
 terraform plan
 
-4.Apply the configuration
-```bash
+4.**Apply the configuration**
+  ```bash
 terraform apply
 
 5.Confirm the deployment
