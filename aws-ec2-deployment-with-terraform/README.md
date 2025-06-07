@@ -24,11 +24,9 @@ This project demonstrates provisioning an Amazon EC2 instance inside a custom VP
    cd DevOps-Project/aws-ec2-deployment-with-terraform
 
 2.**Initialize Terraform**
-   ```bash
    terraform init
 
 3.**Review the plan**
-  ```bash
 terraform plan
 
 4.**Apply the configuration**
