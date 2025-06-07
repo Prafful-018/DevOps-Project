@@ -24,19 +24,28 @@ This project demonstrates provisioning an Amazon EC2 instance inside a custom VP
    cd DevOps-Project/aws-ec2-deployment-with-terraform
 
 2.Initialize Terraform
+```bash
 terraform init
 
 3.Review the plan
+```bash
 terraform plan
 
 4.Apply the configuration
+```bash
 terraform apply
 
 5.Confirm the deployment
+```bash
 Terraform will output the public IP of the EC2 instance after successful apply.
 
 6.Connect to EC2 instance
+```bash
 ssh -i your-key.pem ec2-user@<EC2-Public-IP>
+
+7.Tear down resources (Optional)
+```bash
+terraform destroy
 
 
 
