@@ -1,0 +1,11 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Secrets
+terraform.tfvars
+*.pem
+
+# System files
+.DS_Store
