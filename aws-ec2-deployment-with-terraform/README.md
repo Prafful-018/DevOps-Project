@@ -50,7 +50,6 @@ This project demonstrates how to provision a secure, highly configurable Amazon 
    terraform destroy
 ## Architecture diagram
 ![image](https://github.com/user-attachments/assets/7bf057ec-2818-4880-b862-e56e56e8f0bd)
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/76042ca3-fa4f-4bc1-b7a4-402daae4fe51" />
 
 
 
