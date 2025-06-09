@@ -36,6 +36,11 @@ This file explains how RDS was created and connected with Beanstalk for backend 
 - Ran:
   ```bash
   mysql -h <RDS-ENDPOINT> -u admin -p
+
+## 🔐 Notes
+-Always restrict RDS access via SGs, not public IP
+
+-Store DB credentials using AWS Secrets Manager or Beanstalk Env Vars
 ## 📬 Contact
 Prafful Mishra
 
