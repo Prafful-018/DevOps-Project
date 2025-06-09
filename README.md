@@ -43,7 +43,7 @@ This repository showcases real-world, production-grade infrastructure and CI/CD 
 - Secure SSH integration and private key management
 - Full architecture, buildspec, and screenshot documentation
 
-**📸 Visuals:** [Screenshots & Architecture](./aws-cicd-pipeline-with-bitbucket-and-beanstalk/screenshots)  
+**📸 Visuals:** [Screenshots & Architecture](https://github.com/Prafful-018/DevOps-Project/tree/main/aws-cicd-pipeline-with-bitbucket-and-beanstalk/Screenshots)  
 **🔗 Repo Folder:** [`aws-cicd-pipeline-with-bitbucket-and-beanstalk`](./aws-cicd-pipeline-with-bitbucket-and-beanstalk)
 
 ---
