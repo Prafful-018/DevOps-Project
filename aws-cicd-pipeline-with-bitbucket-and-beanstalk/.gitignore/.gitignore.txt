@@ -1,1 +1,63 @@
+# Byte-compiled / cache / logs
+__pycache__/
+*.py[cod]
+*.log
 
+# Virtual environment
+venv/
+.env
+*.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IntelliJ / VSCode / Eclipse / JetBrains
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Maven / Gradle
+target/
+*.war
+*.jar
+*.class
+
+# AWS Elastic Beanstalk
+.elasticbeanstalk/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+
+# Pipenv
+Pipfile.lock
+
+# Application artifacts
+*.zip
+*.tar.gz
+*.egg
+*.egg-info/
+
+# Node modules (if frontend used)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# S3 files or deployment zips
+app.zip
+*.bak
+
+# Secrets (for safety)
+*.pem
+*.key
+*.crt
+*.db
+secrets.json
